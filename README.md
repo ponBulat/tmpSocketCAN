@@ -1,5 +1,10 @@
 # tmpSocketCAN
 
+
+```bash
+sudo apt install libsocketcan-dev
+```
+
 https://elinux.org/Bringing_CAN_interface_up
 
 ```bash
