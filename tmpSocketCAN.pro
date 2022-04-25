@@ -7,7 +7,7 @@ CONFIG -= app_bundle
 
 SOURCES += \
         main.cpp \
-        mycan.cpp
+        socketcan.cpp
 
 HEADERS += \
-    mycan.h
+    socketcan.h

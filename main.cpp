@@ -1,12 +1,12 @@
 #include <QCoreApplication>
 
-#include "mycan.h"
+#include "socketcan.h"
 
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    MyCAN myCan;
+    SocketCAN myCan;
 
     return a.exec();
 }
